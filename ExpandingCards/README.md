@@ -1,24 +1,3 @@
-# Progress Steps
-
-This is a responsive multi-step progress bar built using **HTML**, **CSS (Bootstrap + custom)**, and **JavaScript**.
-
-## 💡 Features
-
-* Dynamic progress tracking
-* Responsive design:
-
-  * Horizontal steps on desktop
-  * Vertical progress on screens ≤ 380px
-* Next/Prev navigation
-* Updates current step counter
-* Styled using Bootstrap 5 and custom CSS
-
-## 📺 Live Demo
-
-[Click here to see it in action](https://ahmedkhaled2817.github.io/50-Project-HTML-CSS-JS/ProgressSteps/)
-
----
-
 # Expanding Cards
 
 A responsive image panel component using **HTML**, **CSS (Bootstrap + custom)**, and **JavaScript**. Clicking a panel expands it while collapsing the others, providing a sleek UI interaction.
