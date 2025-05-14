@@ -13,9 +13,14 @@ A responsive image panel component using **HTML**, **CSS (Bootstrap + custom)**,
 
 https://ahmedkhaled2817.github.io/50-Project-HTML-CSS-JS/ExpandingCards/
 
-## 📸 Preview
+## 📸 Desktop
 
 ![image](https://github.com/user-attachments/assets/54282d05-54a5-4c25-ba40-80aeff1347c9)
+
+
+## 📸 Mobile
+
+![image](https://github.com/user-attachments/assets/4417b240-c405-4224-a026-a9829efd6cec)
 
 ## 📁 Files
 
