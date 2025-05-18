@@ -1,0 +1,130 @@
+
+/* start main component */
+:root{
+    --main-color: #fff;
+    --main-transition: .5s linear;
+    --second-transition: 0.5s ease-in-out;
+    --main-transform-origin:top left;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    overflow-x: hidden;
+}
+.container{
+    transform-origin: var(--main-transform-origin);
+    transition: transform var(--main-transition);
+    width: 100vw;
+    max-width: 100%;
+}
+.container.show-nav{
+    transform: rotate(-20deg);
+}
+.container.show-nav + nav li {
+    transform: translateX(0);
+    transition-delay:var(--main-transition);
+}
+.container.show-nav .circle{
+    transform: rotate(-70deg);
+}
+
+/* end main component */
+
+/* start circle-container */
+.circle-container{
+    position: fixed;
+    top: -6.25rem;
+    left: -6.25rem;
+}
+.circle-container .circle{
+    background-color: #ff7979;
+    width: 12.5rem;
+    height: 12.5rem;
+    border-radius: 50%;
+    position: relative;
+    transition: transform var(--main-transition);
+}
+.circle button{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    height: 6.25rem;
+    background: transparent;
+    border: none;
+    font-size: 1.5625rem;
+    color: var(--main-color);
+}
+.circle:focus{
+    outline: none;
+}
+.circle button#open{
+    left: 60%;
+}
+.circle button#close{
+    top: 60%;
+    transform: rotate(90deg);
+    transform-origin: var(--main-transform-origin);
+}
+/* end circle-container */
+
+/* start content section  */
+.content-section{
+    max-width: 62.5rem;
+    margin: 3.125rem auto;
+}
+
+/* start img section */
+.img-section .img-content img {
+    max-width: 100%;
+}
+/* end img section */
+
+/* end content section */
+
+/* start nav */
+nav{
+    bottom: 1.25rem;
+    left: 0;
+    z-index: 100;
+}
+nav ul li{
+    transform: translateX(-100%);
+    transition: var(--second-transition);
+}
+nav ul li + li{
+    margin-left: .9375rem;;
+    transform: translateX(-150%);
+    transition: var(--second-transition);
+}
+nav ul li + li + li {
+    margin-left: 1.875rem;
+    transform: translateX(-200%);
+    transition:var(--second-transition);
+}
+nav ul li + li + li + li {
+    margin-left: 2.8125rem;
+    transform: translateX(-250%);
+    transition: var(--second-transition);
+}
+nav ul li a{
+    width: fit-content;
+}
+nav ul li a:hover{
+    color: var(--main-color) !important;
+    font-weight: bold;
+}
+nav ul li a i {
+    margin-right: .625rem;
+}
+nav ul li a:hover i {
+    color: var(--main-color);
+    transform: rotate(360deg);
+    transition: var(--main-transition);
+}
+/* end nav */
