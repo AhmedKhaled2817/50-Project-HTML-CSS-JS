@@ -1,4 +1,5 @@
 const descriptionBtn=document.querySelector(".description");
+const resetBtn=document.getElementById("resetBtn");
 
 // create a function analyzeText
 function analyzeText(){
@@ -13,4 +14,16 @@ function analyzeText(){
     document.getElementById("textUpperCase").textContent=msg.toUpperCase();
     document.getElementById("textLowerCase").textContent=msg.toLowerCase();
 }
+
+// reset input
+
+function resetInput(){
+    document.getElementById("msg").value="";
+    document.getElementById("totalWords").textContent="";
+    document.getElementById("totalChar").textContent="";
+    document.getElementById("textUpperCase").textContent="";
+    document.getElementById("textLowerCase").textContent="";   
+}
+
 descriptionBtn.addEventListener("click",analyzeText);
+resetBtn.addEventListener("click",resetInput);
