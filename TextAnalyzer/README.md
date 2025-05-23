@@ -37,7 +37,6 @@ This is a **Text Analyzer** web application built with **HTML**, **CSS**, and **
 
 ## 📁 Project Structure
 
-\`\`\`
 TextAnalyzer/
 ├── index.html              # Main HTML structure
 ├── assets/
