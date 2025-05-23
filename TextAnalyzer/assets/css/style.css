@@ -1,5 +1,6 @@
 :root{
     --primary-color: #ff00ff;
+    --secondary-color: #00ffff;
     --back-color: #001f05ea;
     --transition:all 0.5s ease-in-out;
 }
@@ -75,7 +76,7 @@
     border-image-slice: 1;
 }
 .result p:hover{
-    border-image-source: linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff);
+    border-image-source: linear-gradient(90deg,var(--primary-color),var(--secondary-color),var(--primary-color));
     animation: borderAnimation 4s ease-in-out infinite;
 }
 .result p span {
@@ -85,12 +86,12 @@
 
 @keyframes borderAnimation{
     0%{
-        border-image-source: linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff);
+        border-image-source: linear-gradient(90deg, var(--primary-color),var(--secondary-color),var(--primary-color));
     }
     50% {
-        border-image-source: linear-gradient(270deg, #00ffff, #ff00ff, #00ffff);
+        border-image-source: linear-gradient(270deg,var(--primary-color),var(--secondary-color),var(--primary-color));
       }
       100% {
-        border-image-source: linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff);
+        border-image-source: linear-gradient(90deg,var(--primary-color),var(--secondary-color),var(--primary-color));
       }
 }
