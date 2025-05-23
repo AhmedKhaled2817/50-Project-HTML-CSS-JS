@@ -74,8 +74,7 @@ TextAnalyzer/
 - Working with `trim()`, `split()`, `toUpperCase()`, and `toLowerCase()`
 - Applying `@keyframes` animation on `border-image-source`
 - Writing reusable and responsive UI components
-
----
+- Add a **"Clear"** button to reset inputs and results
 
 ## ✍️ Author
 
