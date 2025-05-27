@@ -34,8 +34,6 @@ This is a **Mini To-Do List** web application built using **HTML**, **CSS**, and
 
 ![image](https://github.com/user-attachments/assets/541e44c0-5c9c-47b8-9880-aa7d819236fa)
 
-> ⚠️ **Note:** Replace the image URLs with actual links to screenshots from your project.
-
 ---
 
 ## 📁 Project Structure
