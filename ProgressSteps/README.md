@@ -21,7 +21,7 @@ This is a responsive multi-step progress bar built using **HTML**, **CSS (Bootst
 
 ### Desktop
 
-![image](https://github.com/user-attachments/assets/11631862-c704-43a9-ac3d-2196267008cf)
+![image](https://github.com/user-attachments/assets/8f0227e2-ea35-4117-b8d0-440fe485ce63)
 
 ### Mobile (≤ 380px)
 
