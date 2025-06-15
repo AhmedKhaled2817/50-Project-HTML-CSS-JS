@@ -31,7 +31,7 @@ This is a **Text Analyzer** web application built with **HTML**, **CSS**, and **
 
 ### 📱 Mobile View
 
-![Mobile Preview](https://github.com/user-attachments/assets/2132fd04-7a1e-4684-b9e4-ea933f96a849)
+![image](https://github.com/user-attachments/assets/18a4c637-a045-4492-9130-2487b76a41ae)
 
 ---
 
