@@ -27,7 +27,7 @@ This is a **Text Analyzer** web application built with **HTML**, **CSS**, and **
 
 ### 🖥️ Desktop View
 
-![Desktop Preview](https://github.com/user-attachments/assets/52d3f427-f787-4c20-be40-5a93de7ca1ff)
+![image](https://github.com/user-attachments/assets/0139e231-4b8a-473e-98de-aade833898d2)
 
 ### 📱 Mobile View
 
