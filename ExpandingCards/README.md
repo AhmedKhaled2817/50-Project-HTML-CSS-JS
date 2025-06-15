@@ -15,12 +15,8 @@ https://ahmedkhaled2817.github.io/50-Project-HTML-CSS-JS/ExpandingCards/
 
 ## 📸 Desktop
 
-![image](https://github.com/user-attachments/assets/54282d05-54a5-4c25-ba40-80aeff1347c9)
+![image](https://github.com/user-attachments/assets/0c220a2a-ff75-46e5-b4b5-d165427dc7a3)
 
-
-## 📸 Mobile
-
-![image](https://github.com/user-attachments/assets/4417b240-c405-4224-a026-a9829efd6cec)
 
 ## 📁 Files
 
