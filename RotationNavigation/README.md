@@ -19,7 +19,7 @@ This is a **rotating navigation menu UI** built with **HTML**, **CSS (Bootstrap 
 
 ### 🖥️ Desktop View
 
-![image](https://github.com/user-attachments/assets/942f07ed-edf3-4d04-82df-34d26991108c)
+![image](https://github.com/user-attachments/assets/55cae7ae-879a-4d17-8b92-aa7e5403d275)
 
 
 ### 📱 Mobile View
