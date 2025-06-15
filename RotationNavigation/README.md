@@ -24,7 +24,7 @@ This is a **rotating navigation menu UI** built with **HTML**, **CSS (Bootstrap 
 
 ### 📱 Mobile View
 
-![image](https://github.com/user-attachments/assets/979fa27e-6b5f-49a3-bdb5-be7601bd8c1d)
+![image](https://github.com/user-attachments/assets/c3de8037-0346-4753-a02f-5bc573748d61)
 
 ## 📁 Project Structure
 
