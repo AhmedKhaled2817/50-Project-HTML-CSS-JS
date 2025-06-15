@@ -32,7 +32,7 @@ This is a **Mini To-Do List** web application built using **HTML**, **CSS**, and
 ### 📱 Mobile View
 
 
-![image](https://github.com/user-attachments/assets/541e44c0-5c9c-47b8-9880-aa7d819236fa)
+![image](https://github.com/user-attachments/assets/17a769b3-cf05-4252-b6c0-26f400ec3f0d)
 
 ---
 
