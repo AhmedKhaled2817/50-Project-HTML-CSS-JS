@@ -25,7 +25,7 @@ This is a **Mini To-Do List** web application built using **HTML**, **CSS**, and
 
 ### 🖥️ Desktop View
 
-![image](https://github.com/user-attachments/assets/9c419f0b-6e63-4cf1-b765-459696660c45)
+![image](https://github.com/user-attachments/assets/b5b98309-9c4a-4a6c-8595-6238eae96415)
 
 
 
