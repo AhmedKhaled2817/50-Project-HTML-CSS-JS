@@ -1,0 +1,23 @@
+@media (max-width: 380px) {
+ .progress-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+ .progress-container .progress-circle {
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 3px;
+    height: 0%;
+  }
+ .progress-container::before {
+    content: "";
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 3px;    
+    height: 100%; 
+  }
+ 
+}
