@@ -24,7 +24,7 @@ Part of the **50 Project Challenge**, focusing on creating clean, functional, an
 ## 📸 Preview
 
 ### Desktop
-![image](https://via.placeholder.com/600x300.png?text=CalculatorApp+Screenshot)
+![image](https://github.com/user-attachments/assets/71cf0f58-6229-4381-904c-2f4728e71f67)
 
 
 ### Mobile
